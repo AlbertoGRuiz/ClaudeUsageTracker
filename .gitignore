@@ -29,5 +29,8 @@ release/
 # Personal data
 *.csv
 
+# Scripts
+get_download_stats.sh
+
 # Logo (tracked)
 !logo.png
