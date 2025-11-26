@@ -90,6 +90,16 @@ See which projects cost the most:
 ...
 ```
 
+### Main Panel - By Model
+Track costs by AI model used:
+```
+🤖 claude-3-5-sonnet-20241022    $145.32
+🤖 gemini-2.0-flash-exp          $23.45
+🤖 claude-3-opus-20240229        $18.76
+🤖 gpt-4o                        $12.33
+...
+```
+
 ### Settings Panel
 Configure pricing and API integration:
 - **LiteLLM API Key** - Connect to your company's LiteLLM server for exact usage data
